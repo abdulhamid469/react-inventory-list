@@ -1,6 +1,6 @@
 const InvertoryList = () => {
   return (
-    <div>InventoryList</div>
+    <div>InventoryList </div>
   )
 }
 
